@@ -18,6 +18,3 @@ Data science is exciting as it has tremendous scope for development and growth, 
 
 
 
-![Deep Diving into Data](https://bitnewsbot.com/data-dive-target-bitcoin-and-venmo/)
-
-
