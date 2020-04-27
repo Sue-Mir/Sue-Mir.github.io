@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Decision Trees - Overfitting and Branching to Twigs"
+date:       2020-04-27 20:34:18 +0000
+permalink:  decision_trees_-_overfitting_and_branching_to_twigs
+---
+
+
+Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text Text text text text
